@@ -1,4 +1,1 @@
-yfinance
-pandas
-requests
-tvdatafeed
+yfinancepandasrequestsgit+https://www.google.com/search?q=https://github.com/rongardF/tvdatafeed.git
